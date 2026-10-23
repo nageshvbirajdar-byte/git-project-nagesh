@@ -12,4 +12,6 @@ I am a student at UGSOT , currently learning Git and GitHub
 - Second project: better than first
 ## Contact
 - Email: nageshvbirajdar@gmail.com
-
+## Hobbies
+- Swimming
+- Camping
