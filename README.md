@@ -10,3 +10,6 @@ I am a student at UGSOT , currently learning Git and GitHub
 ## Projects
 - First project: better than nothing
 - Second project: better than first
+## Contact
+- Email: nageshvbirajdar@gmail.com
+
