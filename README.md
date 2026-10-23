@@ -10,5 +10,3 @@ I am a student at UGSOT , currently learning Git and GitHub
 ## Projects
 - First project: better than nothing
 - Second project: better than first
-## Social links 
-- GitHub: https://github.com/nageshvbirajdar-byte
