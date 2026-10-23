@@ -7,3 +7,6 @@ I am a student at UGSOT , currently learning Git and GitHub
 - Communication
 - Problem solving
 - Basic Git
+## Projects
+- First project: better than nothing
+- Second project: better than first
